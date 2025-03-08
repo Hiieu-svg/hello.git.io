@@ -29,6 +29,20 @@ margin: 0;
 background: black;
 
 }
+<div style="text-align: center; font-size: 18px; font-family: Arial; color: #00698f;">
+    <h2>Chúc mừng 8/3 đến bông hoa rực rỡ đang ở phía trước màn hình</h2>
+    <p>Nhà thơ Lord Byron đã từng tả rằng:</p>
+    <blockquote style="font-style: italic; padding: 10px; border-left: 4px solid #ccc;">
+        She walks in beauty, like the night<br>
+        Of cloudless climes and starry skies;<br>
+        And all that's best of dark and bright<br>
+        Meet in her aspect and her eyes.
+    </blockquote>
+    <p>Tớ chắc chắn rằng Lord Byron đã vượt thời gian để nhìn trộm cậu, để rồi vẻ đẹp ấy được hiện lên trong bài thơ nổi tiếng này!!!!!</p>
+    <p>Nhân ngày 8/3 này, tớ xin chúc cậu mãi xinh đẹp, đáng yêu, luôn hạnh phúc. Chúc cậu luôn gặp may mắn trong cuộc sống và vui vẻ mọi lúc mọi nơi. Nụ cười của cậu còn sáng hơn ánh mặt trời đấyyyyyy.</p>
+    <p>Chúc cậu ngày 8/3 thật vui vẻ và tràn đầy sự xinh đẹp cùng với nhiều yêu thương.</p>
+</div>
+
 
 canvas {
 
