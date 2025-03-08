@@ -19,17 +19,7 @@ Làm code trái tim HTML cơ bản
 <style>
 
 html, body {
-
-height: 100%;
-
-padding: 0;
-
-margin: 0;
-
-background: black;
-
-}
-<div style="text-align: center; font-size: 18px; font-family: Arial; color: #00698f;">
+    <div style="text-align: center; font-size: 18px; font-family: Arial; color: #00698f;">
     <h2>Chúc mừng 8/3 đến bông hoa rực rỡ đang ở phía trước màn hình</h2>
     <p>Nhà thơ Lord Byron đã từng tả rằng:</p>
     <blockquote style="font-style: italic; padding: 10px; border-left: 4px solid #ccc;">
@@ -44,6 +34,15 @@ background: black;
 </div>
 
 
+height: 100%;
+
+padding: 0;
+
+margin: 0;
+
+background: black;
+
+}
 canvas {
 
 position: absolute;
